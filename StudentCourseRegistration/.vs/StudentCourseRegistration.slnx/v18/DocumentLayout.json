@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Admin\\source\\repos\\StudentCourseRegistration\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8A3FBC88-0283-4E5E-9E13-24EAC5AE442A}|StudentCourseRegistration\\StudentCourseRegistration.csproj|c:\\users\\admin\\source\\repos\\studentcourseregistration\\studentcourseregistration\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8A3FBC88-0283-4E5E-9E13-24EAC5AE442A}|StudentCourseRegistration\\StudentCourseRegistration.csproj|solutionrelative:studentcourseregistration\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A3FBC88-0283-4E5E-9E13-24EAC5AE442A}|StudentCourseRegistration\\StudentCourseRegistration.csproj|c:\\users\\admin\\source\\repos\\studentcourseregistration\\studentcourseregistration\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8A3FBC88-0283-4E5E-9E13-24EAC5AE442A}|StudentCourseRegistration\\StudentCourseRegistration.csproj|solutionrelative:studentcourseregistration\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A3FBC88-0283-4E5E-9E13-24EAC5AE442A}|StudentCourseRegistration\\StudentCourseRegistration.csproj|c:\\users\\admin\\source\\repos\\studentcourseregistration\\studentcourseregistration\\views\\student\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8A3FBC88-0283-4E5E-9E13-24EAC5AE442A}|StudentCourseRegistration\\StudentCourseRegistration.csproj|solutionrelative:studentcourseregistration\\views\\student\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A3FBC88-0283-4E5E-9E13-24EAC5AE442A}|StudentCourseRegistration\\StudentCourseRegistration.csproj|c:\\users\\admin\\source\\repos\\studentcourseregistration\\studentcourseregistration\\views\\student\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8A3FBC88-0283-4E5E-9E13-24EAC5AE442A}|StudentCourseRegistration\\StudentCourseRegistration.csproj|solutionrelative:studentcourseregistration\\views\\student\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A3FBC88-0283-4E5E-9E13-24EAC5AE442A}|StudentCourseRegistration\\StudentCourseRegistration.csproj|c:\\users\\admin\\source\\repos\\studentcourseregistration\\studentcourseregistration\\views\\student\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8A3FBC88-0283-4E5E-9E13-24EAC5AE442A}|StudentCourseRegistration\\StudentCourseRegistration.csproj|solutionrelative:studentcourseregistration\\views\\student\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A3FBC88-0283-4E5E-9E13-24EAC5AE442A}|StudentCourseRegistration\\StudentCourseRegistration.csproj|c:\\users\\admin\\source\\repos\\studentcourseregistration\\studentcourseregistration\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A3FBC88-0283-4E5E-9E13-24EAC5AE442A}|StudentCourseRegistration\\StudentCourseRegistration.csproj|solutionrelative:studentcourseregistration\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A3FBC88-0283-4E5E-9E13-24EAC5AE442A}|StudentCourseRegistration\\StudentCourseRegistration.csproj|c:\\users\\admin\\source\\repos\\studentcourseregistration\\studentcourseregistration\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A3FBC88-0283-4E5E-9E13-24EAC5AE442A}|StudentCourseRegistration\\StudentCourseRegistration.csproj|solutionrelative:studentcourseregistration\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\StudentCourseRegistration\\StudentCourseRegistration\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "StudentCourseRegistration\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\StudentCourseRegistration\\StudentCourseRegistration\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "StudentCourseRegistration\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAABwAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-11-21T16:29:14.872Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\StudentCourseRegistration\\StudentCourseRegistration\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "StudentCourseRegistration\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\StudentCourseRegistration\\StudentCourseRegistration\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "StudentCourseRegistration\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAswCIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-11-21T16:28:11.208Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\StudentCourseRegistration\\StudentCourseRegistration\\Views\\Student\\Create.cshtml",
+              "RelativeDocumentMoniker": "StudentCourseRegistration\\Views\\Student\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\StudentCourseRegistration\\StudentCourseRegistration\\Views\\Student\\Create.cshtml",
+              "RelativeToolTip": "StudentCourseRegistration\\Views\\Student\\Create.cshtml",
+              "ViewState": "AgIAABsAAAAAAAAAAAAswDEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-11-21T16:19:05.153Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\StudentCourseRegistration\\StudentCourseRegistration\\Views\\Student\\Details.cshtml",
+              "RelativeDocumentMoniker": "StudentCourseRegistration\\Views\\Student\\Details.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\StudentCourseRegistration\\StudentCourseRegistration\\Views\\Student\\Details.cshtml",
+              "RelativeToolTip": "StudentCourseRegistration\\Views\\Student\\Details.cshtml",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAswCEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-11-21T16:19:33.853Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\StudentCourseRegistration\\StudentCourseRegistration\\Views\\Student\\Index.cshtml",
+              "RelativeDocumentMoniker": "StudentCourseRegistration\\Views\\Student\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\StudentCourseRegistration\\StudentCourseRegistration\\Views\\Student\\Index.cshtml",
+              "RelativeToolTip": "StudentCourseRegistration\\Views\\Student\\Index.cshtml",
+              "ViewState": "AgIAACAAAAAAAAAAAAAmwDcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-11-21T16:18:19.62Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "StudentController.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\StudentCourseRegistration\\StudentCourseRegistration\\Controllers\\StudentController.cs",
+              "RelativeDocumentMoniker": "StudentCourseRegistration\\Controllers\\StudentController.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\StudentCourseRegistration\\StudentCourseRegistration\\Controllers\\StudentController.cs",
+              "RelativeToolTip": "StudentCourseRegistration\\Controllers\\StudentController.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAswDUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-21T16:16:12.805Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\StudentCourseRegistration\\StudentCourseRegistration\\Models\\Student.cs",
+              "RelativeDocumentMoniker": "StudentCourseRegistration\\Models\\Student.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\StudentCourseRegistration\\StudentCourseRegistration\\Models\\Student.cs",
+              "RelativeToolTip": "StudentCourseRegistration\\Models\\Student.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAYwBgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-21T16:13:40.827Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
